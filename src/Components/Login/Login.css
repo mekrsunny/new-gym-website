@@ -1,0 +1,8 @@
+#login {
+    background-image: url("../../media/loginbgc.jpg");
+    height: 99vh;
+    width: 99vw;
+    background-size: cover;
+    opacity: 0.9;
+    z-index: 1;
+}
